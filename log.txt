@@ -1,0 +1,35 @@
+commit 1c9dc34e6a608454b95bd9084be917ec6630f801
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Mon Mar 25 16:52:53 2019 +0000
+
+    Agregando imagen de metodologias de implementacion
+
+commit ddff385ab070e3e474ff0eef95a2cc0e97995076
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Mon Mar 25 16:51:41 2019 +0000
+
+    Agregando imagen Business timeline
+
+commit 1b1304c81e80d07027265696a63c913c275a187a
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Mon Mar 25 16:50:35 2019 +0000
+
+    Agregando Business timeline
+
+commit d9d1afefca0b827f3e547794db183b49818ce92c
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Mon Mar 25 16:42:06 2019 +0000
+
+    Haciendo pueba del comando git reset --mixed
+
+commit 6346ce7f3ac87de81916080f3ad85233a509b111
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Fri Mar 22 17:08:38 2019 +0000
+
+    comprobamos el git reset -soft, donde quita un cambio y se queda en stage
+
+commit 242e931ab8f7f9d16a745d03c0678dde9eab4175
+Author: Evelyn Mora <mora.eve.c@gmail.com>
+Date:   Tue Mar 5 23:41:21 2019 +0000
+
+    Inicializar nuestro landing
